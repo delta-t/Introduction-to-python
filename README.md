@@ -1,3 +1,3 @@
 # Introduction-to-python
-## Course from the Bioinformatics Institute, https://stepik.org/course/67
+## Bioinformatics Institute course, https://stepik.org/course/67
 Link on my <a href="https://stepik.org/cert/384505">certificate</a>
